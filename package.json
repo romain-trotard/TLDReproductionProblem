@@ -6,7 +6,7 @@
 		"test": "react-scripts test"
 	},
 	"devDependencies": {
-		"@testing-library/dom": "7.21.2",
+		"@testing-library/dom": "7.21.1",
 		"@testing-library/react": "10.4.7"
 	},
 	"dependencies": {
