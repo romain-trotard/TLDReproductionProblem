@@ -1,0 +1,17 @@
+{
+	"name": "reproduction-testing-library",
+	"version": "0.0.1",
+	"license": "UNLICENSED",
+	"scripts": {
+		"test": "react-scripts test"
+	},
+	"devDependencies": {
+		"@testing-library/dom": "7.21.2",
+		"@testing-library/react": "10.4.7"
+	},
+	"dependencies": {
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"react-scripts": "^3.4.1"
+	}
+}
